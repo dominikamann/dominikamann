@@ -2,7 +2,7 @@
 
 I build AI, automation and software — and I've been doing it for 15+ years.
 
-Professionally at Erwin Hymer Group SE, and independently as **[AMANN LABS](https://amannlabs.eu)** from Germany.
+Professionally at Erwin Hymer Group SE, and independently as **[AmannLabs](https://amannlabs.eu)** from Germany.
 
 Strategy, architecture and code from one place, so nothing gets lost between the slide and the system.
 
