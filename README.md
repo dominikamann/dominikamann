@@ -1,6 +1,6 @@
 ## Hi, I'm Dominik 👋
 
-I build AI, automation and software — and I've been doing it for 15+ years.
+I build digital products, AI, automation and software — and I've been doing it for 15+ years.
 
 Professionally at Erwin Hymer Group SE, and independently as **[AmannLabs](https://amannlabs.eu)** from Germany.
 
