@@ -1,4 +1,4 @@
-## Hi, I'm Dominik
+Hi, I'm Dominik
 
 I build digital products, AI, automation and software — and I've been doing it for 15+ years.
 
