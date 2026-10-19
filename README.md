@@ -9,11 +9,12 @@ Strategy, architecture and code from one place, so nothing gets lost between the
 **What I do**
 - 🤖 **AI & automation** — custom agents, LLM integration, process automation, team enablement
 - 📱 **Software & apps** — web, iOS/Android, prototype to production
-- 🧭 **Tech consulting** — AI strategy, architecture reviews, tech due diligence
+- 🧭 **Tech consulting** — AI strategy, architecture reviews, tech 
+- 🛠️ **Making** — 3D printing, laser cutting & engraving
 
 **Selected work**
 - Github - See below ("Pinned")
-- [Catchly](https://amannlabs.eu) — fishing journal app for iOS and Android.
+- [Catchly](https://catchly.eu) — fishing journal app for iOS and Android.
 
 Working in German and English, remote across Europe.
 
