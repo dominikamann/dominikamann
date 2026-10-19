@@ -16,4 +16,5 @@ Strategy, architecture and code from one place, so nothing gets lost between the
 - [Catchly](https://amannlabs.eu) — fishing journal app for iOS and Android.
 
 Working in German and English, remote across Europe.
+
 📬 [amannlabs.eu](https://amannlabs.eu) · [LinkedIn](https://www.linkedin.com/in/dominikamann/)
